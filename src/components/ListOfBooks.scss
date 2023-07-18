@@ -1,0 +1,6 @@
+.books {
+  padding: 0.5em;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(10em, 1fr));
+  gap: 3em 1em;
+}
